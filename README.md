@@ -1,1 +1,1 @@
-use of the tool python IPLocationTools.py <target ip> 
+tool that finds location and country from ip address
